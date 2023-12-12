@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, Ben Can Topatay</h1>
-<h3 align="center">Daha önceden Bilecik Şeyh Edebali üniversitesinde İngilizce hazırlık okudum şimdi de Namık Kemal üniversitesi Bilgisayar mühendisliği 3.sınıf öğrencisiyim html, css, js, c, c#, flutter, dillerini orta seviyede sql, kotlin başlangıç seviyesinde biliyorum hepsinden yapmış olduğum küçük projeler var kendimi front end ve back end konusunda geliştiriyorum</h3>
+<h3 align="center">Daha önceden Bilecik Şeyh Edebali üniversitesinde İngilizce hazırlık okudum şimdi de Namık Kemal üniversitesi Bilgisayar mühendisliği 4.sınıf öğrencisiyim C#, SQL, html, css, js, c, dillerini orta seviyede flutter,kotlin başlangıç seviyesinde biliyorum hepsinden yapmış olduğum küçük projeler var kendimi front end ve back end konusunda geliştiriyorum</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
